@@ -1,4 +1,4 @@
-# Object-Oriented Programming Lab Project
+# Object-Oriented Programming Lab
 
 This repository contains a collection of C++ projects developed as part of an Object-Oriented Programming Lab course. Each lab demonstrates various OOP principles, data structures, and algorithms through practical applications.
 
@@ -12,14 +12,9 @@ This project showcases a range of object-oriented programming concepts, includin
 -   **Data Structures:** Practical applications of vectors, maps, unordered maps, and custom data structures like min-heaps and priority queues.
 -   **Algorithms:** Implementation of various algorithms such as sorting (merge sort, quick sort, custom comparators, topological sort), graph traversal (BFS, DFS for cycle detection and SCCs), dynamic programming (for LIS, Hamiltonian paths, maximum profit scheduling, and max hype paths), divide and conquer (for closest pair, polynomial multiplication, inversion counting, matrix exponentiation), and number theory algorithms (sieve, divisor calculations).
 -   **Operator Overloading:** Enhancing readability and expressiveness of code for custom types.
--   **File I/O:** Reading input and writing output from/to files.
 
 The labs are designed to solve specific problems, ranging from simulating complex systems to optimizing resource allocation and pathfinding.
-
-## Labs
-
-**Note on Input/Output:** Detailed input and output formats for each lab are not included in this `README.md` to keep it concise. Please refer to the respective source code files or a separate `INPUT_OUTPUT_FORMATS.md` file (if provided) for this information.
-
+Each lab diectory contains cpp code and problem-statement doc for better understanding of problem
 ### Lab 1: Library Management System
 
 -   **Description:** A system to manage books and members, allowing for adding books, registering members, borrowing, and returning books.
